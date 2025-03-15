@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Yonoma</id>
+    <version>1.1.0</version>
+    <authors>YONOMA</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/YONOMAHQ/Yonoma</projectUrl>
+    <description>"Yonoma .NET SDK - The ultimate toolkit for seamless email management! Effortlessly integrate with the Yonoma API to handle lists, tags, contacts, and email sending—all with a blazing-fast, fully asynchronous .NET interface."</description>
+    <tags>email api dotnet Yonoma email-sending mailing-list contacts tags transactional-email async sdk automation</tags>
+    <repository type="git" url="https://github.com/YONOMAHQ/Yonoma" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\dotnet\yonoma\Yonoma\bin\Release\net9.0\Yonoma.runtimeconfig.json" target="lib\net9.0\Yonoma.runtimeconfig.json" />
+    <file src="G:\dotnet\yonoma\Yonoma\bin\Release\net9.0\Yonoma.dll" target="lib\net9.0\Yonoma.dll" />
+  </files>
+</package>

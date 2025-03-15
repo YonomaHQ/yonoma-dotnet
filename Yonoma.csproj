@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <!-- NuGet Package Metadata -->
+    <PackageId>Yonoma</PackageId>
+    <Version>1.1.2</Version>
+    <Authors>YONOMA</Authors>
+    <Company>YourCompany</Company>
+    <Description>"Yonoma .NET SDK - The ultimate toolkit for seamless email management! Effortlessly integrate with the Yonoma API to handle lists, tags, contacts, and email sending—all with a blazing-fast, fully asynchronous .NET interface."</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/YonomaHQ/yonoma-dotnet</RepositoryUrl>
+    <PackageTags>email;api;dotnet;Yonoma;email-sending;mailing-list;contacts;tags;transactional-email;async;sdk;automation</PackageTags>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+
+    <!-- Additional NuGet Metadata -->
+    <ProjectUrl>https://github.com/YonomaHQ/yonoma-dotnet</ProjectUrl>
+    <IconUrl>https://www.nuget.org/profiles/YONOMA/avatar?imageSize=100</IconUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/YonomaHQ/yonoma-dotnet</PackageProjectUrl>
+    <PackageIcon>yonoma_logo.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <None Include="assets/yonoma_logo.png" Pack="true" PackagePath="/" />
+  </ItemGroup>
+
+</Project>

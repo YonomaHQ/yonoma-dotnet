@@ -1,0 +1,17 @@
+G:\dotnet\yonoma\Yonoma\bin\Debug\net9.0\Yonoma.exe
+G:\dotnet\yonoma\Yonoma\bin\Debug\net9.0\Yonoma.deps.json
+G:\dotnet\yonoma\Yonoma\bin\Debug\net9.0\Yonoma.runtimeconfig.json
+G:\dotnet\yonoma\Yonoma\bin\Debug\net9.0\Yonoma.dll
+G:\dotnet\yonoma\Yonoma\bin\Debug\net9.0\Yonoma.pdb
+G:\dotnet\yonoma\Yonoma\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\Yonoma.csproj.AssemblyReference.cache
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\Yonoma.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\Yonoma.AssemblyInfoInputs.cache
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\Yonoma.AssemblyInfo.cs
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\Yonoma.csproj.CoreCompileInputs.cache
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\Yonoma.csproj.Up2Date
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\Yonoma.dll
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\refint\Yonoma.dll
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\Yonoma.pdb
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\Yonoma.genruntimeconfig.cache
+G:\dotnet\yonoma\Yonoma\obj\Debug\net9.0\ref\Yonoma.dll

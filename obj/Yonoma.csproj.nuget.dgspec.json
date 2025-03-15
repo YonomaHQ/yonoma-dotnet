@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\dotnet\\yonoma\\Yonoma\\Yonoma.csproj": {}
+  },
+  "projects": {
+    "G:\\dotnet\\yonoma\\Yonoma\\Yonoma.csproj": {
+      "version": "1.1.2",
+      "restore": {
+        "projectUniqueName": "G:\\dotnet\\yonoma\\Yonoma\\Yonoma.csproj",
+        "projectName": "Yonoma",
+        "projectPath": "G:\\dotnet\\yonoma\\Yonoma\\Yonoma.csproj",
+        "packagesPath": "C:\\Users\\ADMIn\\.nuget\\packages\\",
+        "outputPath": "G:\\dotnet\\yonoma\\Yonoma\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "G:\\dotnet\\ynma\\ynma\\bin\\Release": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
