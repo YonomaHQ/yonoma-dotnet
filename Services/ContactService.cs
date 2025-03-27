@@ -24,18 +24,15 @@ namespace yonoma.Services
             {
                 email = email,
                 status = status,
-                data = new
-                {
-                    firstName = firstName,
-                    lastName = lastName,
-                    phone = phone,
-                    dateOfBirth = dateOfBirth,
-                    address = address,
-                    city = city,
-                    state = state,
-                    country = country,
-                    zipcode = zipcode
-                }
+                firstName = firstName,
+                lastName = lastName,
+                phone = phone,
+                company = company,
+                address = address,
+                city = city,
+                state = state,
+                country = country,
+                zipCode = zipCode
             };
 
             return await _apiClient.PostAsync($"contacts/{listId}/create", contactData);
