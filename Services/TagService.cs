@@ -34,7 +34,7 @@ namespace yonoma.Services
         public async Task<string> Delete(string tagId)
         {
             var data = new { };
-            return await _apiClient.PostAsync($"tags/{tagId}/delete", data);
+            return await _apiClient.DeleteAsync($"tags/{tagId}/delete", data);
         }
     }
 }
