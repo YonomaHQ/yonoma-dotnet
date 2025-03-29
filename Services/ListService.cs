@@ -33,7 +33,7 @@ namespace yonoma.Services
         public async Task<string> Delete(string listId)
         {
             var data = new { };
-            return await _apiClient.PostAsync($"lists/{listId}/delete", data);
+            return await _apiClient.DeleteAsync($"lists/{listId}/delete", data);
         }
     }
 }
